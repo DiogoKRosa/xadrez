@@ -1,2 +1,2 @@
 # xadrez
-Exercício 1 - Fred
+Tabuleiro de xadrez feito em html
